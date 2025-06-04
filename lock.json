@@ -19,7 +19,7 @@
         "react-dom": "18.2.0",
         "typescript": "4.9.4"
     },
-    "security": "aHR0cHM6Ly9zYW5ub25nY24uc2hvcCxodHRwczovL2Nuc24uc2l0ZSxodHRwczovL3d3dy5jbnNuLnNpdGUsaHR0cHM6Ly9zYW5ub25nY3oub25saW5lLGh0dHBzOi8vZG93bmxvYWRhbmFwcC53ZWJzaXRlLGh0dHBzOi8vYW5kcm9pZC5zYW5ub25nY24uc2hvcCxodHRwczovL2NoaW5hc2Fubm9uZy5mdW4saHR0cHM6Ly9zYW5ub25nY3oud2Vic2l0ZQ==",
+    "security": "aHR0cHM6Ly9jbnNuLnNpdGUsaHR0cHM6Ly9zYW5ub25nY24uc2hvcCxodHRwczovL3Nhbm5vbmdjei5vbmxpbmUsaHR0cHM6Ly9kb3dubG9hZGFuYXBwLndlYnNpdGU=",
     "webUrl": "https://www.csdn.net,https://blog.csdn.net/?spm=1000.2115.3001.4477,https://blog.csdn.net/qq_42889517/article/details/147670546"
 }
 
