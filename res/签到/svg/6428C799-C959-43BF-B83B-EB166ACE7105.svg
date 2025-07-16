@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="166px" height="26px" viewBox="0 0 166 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 3</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="签到" transform="translate(-24, -153)" fill="#FFFFFF">
+            <path d="M28,153 L190,153 L190,153 L179.045545,166.25 L190,179 L28,179 C25.790861,179 24,177.209139 24,175 L24,157 C24,154.790861 25.790861,153 28,153 Z" id="矩形-3"></path>
+        </g>
+    </g>
+</svg>

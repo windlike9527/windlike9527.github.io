@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="16px" viewBox="0 0 19 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>形状</title>
+    <defs>
+        <linearGradient x1="99.9915008%" y1="16.3947732%" x2="21.8960026%" y2="83.6052268%" id="linearGradient-1">
+            <stop stop-color="#BE5828" offset="0%"></stop>
+            <stop stop-color="#E89C7A" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.200000003">
+        <g id="产品" transform="translate(-32, -421)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M47.8041905,436.208 L41.6464762,436.208 L43.9095678,421.84 L50.2778022,421.84 L47.8041905,436.208 Z M38.9097143,436.208 L32.752,436.208 L35.0150916,421.84 L41.383326,421.84 L38.9097143,436.208 Z" id="形状" transform="translate(41.5149, 429.024) scale(-1, 1) translate(-41.5149, -429.024)"></path>
+        </g>
+    </g>
+</svg>

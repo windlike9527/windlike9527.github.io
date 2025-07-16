@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="15px" viewBox="0 0 18 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>形状备份</title>
+    <defs>
+        <linearGradient x1="99.9915008%" y1="16.3947732%" x2="21.8960026%" y2="83.6052268%" id="linearGradient-1">
+            <stop stop-color="#BE5828" offset="0%"></stop>
+            <stop stop-color="#E89C7A" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.200000003">
+        <g id="产品" transform="translate(-340, -460)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M355.05219,474.368 L348.894476,474.368 L351.157568,460 L357.525802,460 L355.05219,474.368 Z M346.157714,474.368 L340,474.368 L342.263092,460 L348.631326,460 L346.157714,474.368 Z" id="形状备份" transform="translate(348.7629, 467.184) scale(1, -1) translate(-348.7629, -467.184)"></path>
+        </g>
+    </g>
+</svg>

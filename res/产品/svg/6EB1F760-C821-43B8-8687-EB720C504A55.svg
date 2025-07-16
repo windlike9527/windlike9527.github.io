@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="59px" viewBox="0 0 132 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <defs>
+        <linearGradient x1="1.61329283e-14%" y1="47.7857775%" x2="100%" y2="53.125%" id="linearGradient-1">
+            <stop stop-color="#5F260E" offset="0%"></stop>
+            <stop stop-color="#CF683D" offset="34.17312%"></stop>
+            <stop stop-color="#5F260E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="CKTKingKong" font-size="24" font-weight="bold" line-spacing="24">
+        <g id="产品" transform="translate(-28, -77)">
+            <g id="编组" transform="translate(28, 77)">
+                <text id="稳健价值" fill-rule="nonzero" fill="#FFFFFF">
+                    <tspan x="0" y="26">稳健价值</tspan>
+                </text>
+                <text id="低波增值" fill-rule="nonzero" fill="#FFFFFF">
+                    <tspan x="36" y="58">低波增值</tspan>
+                </text>
+                <text id="稳健价值" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                    <tspan x="0" y="25">稳健价值</tspan>
+                </text>
+                <text id="低波增值" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                    <tspan x="36" y="57">低波增值</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
