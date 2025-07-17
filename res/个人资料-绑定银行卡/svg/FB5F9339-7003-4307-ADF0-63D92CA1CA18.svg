@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/多选</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人资料-绑定银行卡" transform="translate(-28, -482)" fill="#A7A6A5" fill-rule="nonzero">
+            <g id="Icon/多选" transform="translate(28, 482)">
+                <path d="M6,0 C9.31111111,0 12,2.68888889 12,6 C12,9.31111111 9.31111111,12 6,12 C2.68888889,12 0,9.31111111 0,6 C0,2.68888889 2.68888889,0 6,0 Z M6,1.2 C3.35163059,1.2 1.2,3.35163059 1.2,6 C1.2,8.64836941 3.35163059,10.8 6,10.8 C8.64836941,10.8 10.8,8.64836941 10.8,6 C10.8,3.35163059 8.64836941,1.2 6,1.2 Z" id="路径"></path>
+            </g>
+        </g>
+    </g>
+</svg>
