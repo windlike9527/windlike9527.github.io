@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="390px" height="71px" viewBox="0 0 390 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 6</title>
+    <defs>
+        <linearGradient x1="50%" y1="-3.90312782e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FEE5D9" offset="0%"></stop>
+            <stop stop-color="#FCF4F0" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录-2" transform="translate(0, -274)" fill="url(#linearGradient-1)" stroke="#FFFFFF">
+            <path d="M378,274.5 C381.175637,274.5 384.050637,275.787181 386.131728,277.868272 C388.212819,279.949363 389.5,282.824363 389.5,286 L389.5,344.5 L0.5,344.5 L0.5,286 C0.5,282.824363 1.78718134,279.949363 3.86827202,277.868272 C5.94936269,275.787181 8.82436269,274.5 12,274.5 Z" id="矩形-6"></path>
+        </g>
+    </g>
+</svg>

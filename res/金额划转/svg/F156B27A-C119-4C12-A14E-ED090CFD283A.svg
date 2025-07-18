@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="71px" viewBox="0 0 366 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 6</title>
+    <defs>
+        <linearGradient x1="50%" y1="-3.90312782e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FEE5D9" offset="0%"></stop>
+            <stop stop-color="#FCF4F0" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="金额划转" transform="translate(-12, -193)" fill="url(#linearGradient-1)" stroke="#FFFFFF">
+            <path d="M366,193.5 C369.175637,193.5 372.050637,194.787181 374.131728,196.868272 C376.212819,198.949363 377.5,201.824363 377.5,205 L377.5,263.5 L12.5,263.5 L12.5,205 C12.5,201.824363 13.7871813,198.949363 15.868272,196.868272 C17.9493627,194.787181 20.8243627,193.5 24,193.5 Z" id="矩形-6"></path>
+        </g>
+    </g>
+</svg>
