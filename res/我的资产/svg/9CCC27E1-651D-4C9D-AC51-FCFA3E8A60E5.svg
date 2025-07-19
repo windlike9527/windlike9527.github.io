@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="170px" viewBox="0 0 366 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 4</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的资产" transform="translate(-12, -103)" fill="#FFFFFF">
+            <path d="M24,103 L228.586451,103 C242.290553,103 254.81847,110.742679 260.947131,123 C267.075791,135.257321 279.603709,143 293.307811,143 L366,143 C372.627417,143 378,148.372583 378,155 L378,261 C378,267.627417 372.627417,273 366,273 L24,273 C17.372583,273 12,267.627417 12,261 L12,115 C12,108.372583 17.372583,103 24,103 Z" id="矩形-4"></path>
+        </g>
+    </g>
+</svg>

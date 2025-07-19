@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="71px" viewBox="0 0 366 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 6</title>
+    <defs>
+        <linearGradient x1="50%" y1="-3.90312782e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FEE5D9" offset="0%"></stop>
+            <stop stop-color="#FCF4F0" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="国家补贴" transform="translate(-12, -96)" fill="url(#linearGradient-1)" stroke="#FFFFFF">
+            <path d="M366,96.5 C369.175637,96.5 372.050637,97.7871813 374.131728,99.868272 C376.212819,101.949363 377.5,104.824363 377.5,108 L377.5,166.5 L12.5,166.5 L12.5,108 C12.5,104.824363 13.7871813,101.949363 15.868272,99.868272 C17.9493627,97.7871813 20.8243627,96.5 24,96.5 Z" id="矩形-6"></path>
+        </g>
+    </g>
+</svg>

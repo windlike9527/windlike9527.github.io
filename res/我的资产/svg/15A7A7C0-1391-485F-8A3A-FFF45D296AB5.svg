@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="71px" viewBox="0 0 366 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 6</title>
+    <defs>
+        <linearGradient x1="59.4366248%" y1="48.5447819%" x2="57.6414806%" y2="51.2353403%" id="linearGradient-1">
+            <stop stop-color="#FEE5D9" offset="0%"></stop>
+            <stop stop-color="#FCF4F0" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的资产" transform="translate(-12, -103)" fill="url(#linearGradient-1)" stroke="#FFFFFF">
+            <path d="M228.586451,103.5 C235.343809,103.5 241.811184,105.408919 247.344716,108.82883 C252.878247,112.24874 257.477935,117.179642 260.499917,123.223607 C263.606596,129.436963 268.335197,134.506062 274.023815,138.021821 C279.712433,141.53758 286.361067,143.5 293.307811,143.5 L366,143.5 C369.175637,143.5 372.050637,144.787181 374.131728,146.868272 C376.212819,148.949363 377.5,151.824363 377.5,155 L377.5,173.5 L12.5,173.5 L12.5,115 C12.5,111.824363 13.7871813,108.949363 15.868272,106.868272 C17.9493627,104.787181 20.8243627,103.5 24,103.5 Z" id="矩形-6"></path>
+        </g>
+    </g>
+</svg>
