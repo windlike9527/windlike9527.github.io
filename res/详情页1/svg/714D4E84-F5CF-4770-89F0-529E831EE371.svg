@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="199px" height="25px" viewBox="0 0 199 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>简单一点 多赚一点</title>
+    <defs>
+        <linearGradient x1="1.61329283e-14%" y1="49.484703%" x2="100%" y2="50.7272544%" id="linearGradient-1">
+            <stop stop-color="#5F260E" offset="0%"></stop>
+            <stop stop-color="#CF683D" offset="34.17312%"></stop>
+            <stop stop-color="#5F260E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="CKTKingKong" font-size="24" font-weight="bold" line-spacing="24">
+        <g id="详情页-1" transform="translate(-21, -117)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <text id="简单一点-多赚一点">
+                <tspan x="21" y="142">简单一点 多赚一点</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

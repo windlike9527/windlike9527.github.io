@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="77px" viewBox="0 0 366 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 3</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="详情页-1" transform="translate(-12, -226)" fill="#FFFFFF">
+            <path d="M24,237 L177.27546,237 C179.372003,237 181.415519,236.34106 183.117142,235.116327 L191.994991,228.726544 C194.088705,227.219605 196.911295,227.219605 199.005009,228.726544 L207.882858,235.116327 C209.584481,236.34106 211.627997,237 213.72454,237 L366,237 C372.627417,237 378,242.372583 378,249 L378,303 L378,303 L12,303 L12,249 C12,242.372583 17.372583,237 24,237 Z" id="矩形-3"></path>
+        </g>
+    </g>
+</svg>

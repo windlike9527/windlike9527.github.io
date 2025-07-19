@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="326px" height="16px" viewBox="0 0 326 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="4.51028104e-15%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#BE5828" offset="0%"></stop>
+            <stop stop-color="#BE5828" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="4.51028104e-15%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#BE5828" offset="0%"></stop>
+            <stop stop-color="#BE5828" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="4.51028104e-15%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#BE5828" offset="0%"></stop>
+            <stop stop-color="#BE5828" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.200000003">
+        <g id="详情页-2" transform="translate(-32, -962)">
+            <g id="编组" transform="translate(32, 962)">
+                <rect id="形状结合备份-2" fill="url(#linearGradient-1)" x="256" y="5" width="70" height="6"></rect>
+                <path d="M65,5.5109106e-16 L83,8 L65,16 L65,11 L0,11 L0,5 L65,5 L65,5.5109106e-16 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+                <path d="M238,5.5109106e-16 L256,8 L238,16 L238,11 L83,11 L83,5 L238,5 L238,5.5109106e-16 Z" id="形状结合备份" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

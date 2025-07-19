@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="7px" viewBox="0 0 47 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>椭圆形</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="-2.77555756e-15%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#BE5828" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#BE5828" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.300000012">
+        <g id="详情页-1" transform="translate(-235, -830)" fill="url(#linearGradient-1)">
+            <path d="M238.5,837 C239.788664,837 254.288664,835.833333 282,833.5 C254.288664,831.166667 239.788664,830 238.5,830 C236.567003,830 235,831.567003 235,833.5 C235,835.432997 236.567003,837 238.5,837 Z" id="椭圆形"></path>
+        </g>
+    </g>
+</svg>
