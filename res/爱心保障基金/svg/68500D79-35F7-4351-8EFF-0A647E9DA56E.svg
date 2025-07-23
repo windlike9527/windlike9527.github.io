@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/箭头 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="爱心保障基金" transform="translate(-46, -581)" fill="#A7A6A5">
+            <g id="Icon/箭头-2" transform="translate(46, 581)">
+                <path d="M5.79289322,6.79289322 L7.87867966,4.70710678 C8.26920395,4.31658249 8.26920395,3.68341751 7.87867966,3.29289322 C7.69114328,3.10535684 7.43678937,3 7.17157288,3 L3,3 C2.44771525,3 2,3.44771525 2,4 C2,4.26521649 2.10535684,4.5195704 2.29289322,4.70710678 L4.37867966,6.79289322 C4.76920395,7.18341751 5.40236893,7.18341751 5.79289322,6.79289322 Z" id="三角形" transform="translate(5.0858, 5.0429) scale(1, -1) translate(-5.0858, -5.0429)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
