@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/ID备份</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F9DD84" offset="0%"></stop>
+            <stop stop-color="#FF9E73" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-194, -134)">
+            <g id="Icon/ID备份" transform="translate(194, 134)">
+                <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="10" height="10" rx="5"></rect>
+                <path d="M5.5,2 C6.6045695,2 7.5,2.8954305 7.5,4 L7.5,6 C7.5,7.1045695 6.6045695,8 5.5,8 L4.5,8 C3.3954305,8 2.5,7.1045695 2.5,6 L2.5,4 C2.5,2.8954305 3.3954305,2 4.5,2 L5.5,2 Z M5,6.5 C4.72385763,6.5 4.5,6.72385763 4.5,7 C4.5,7.27614237 4.72385763,7.5 5,7.5 C5.27614237,7.5 5.5,7.27614237 5.5,7 C5.5,6.72385763 5.27614237,6.5 5,6.5 Z M5.75,2.5 L4.25,2.5 C4.11192881,2.5 4,2.61192881 4,2.75 C4,2.88807119 4.11192881,3 4.25,3 L5.75,3 C5.88807119,3 6,2.88807119 6,2.75 C6,2.61192881 5.88807119,2.5 5.75,2.5 Z" id="形状结合" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

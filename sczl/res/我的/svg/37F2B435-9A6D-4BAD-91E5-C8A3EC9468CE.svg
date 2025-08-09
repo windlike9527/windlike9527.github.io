@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/ID</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#84D3F9" offset="0%"></stop>
+            <stop stop-color="#3439ED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-100, -134)">
+            <g id="Icon/ID" transform="translate(100, 134)">
+                <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="10" height="10" rx="5"></rect>
+                <g id="ID" stroke-width="1" transform="translate(1.576, 1.201)" fill="#FFFFFF">
+                    <path d="M1.836,3.168 C1.836,2.874 1.806,1.938 1.536,1.776 C1.398,1.692 1.284,1.698 1.128,1.698 C1.014,1.698 0.912,1.716 0.816,1.77 C0.486,1.956 0.474,3.078 0.474,3.426 C0.474,3.684 0.486,3.936 0.486,4.194 C0.486,4.506 0.498,5.688 0.78,5.85 C0.906,5.922 1.062,5.928 1.206,5.928 C1.422,5.928 1.596,5.832 1.692,5.634 C1.818,5.376 1.836,4.518 1.836,4.212 L1.836,3.168 Z" id="路径" fill-rule="nonzero"></path>
+                    <path d="M4.206,1.644 C3.96,1.644 3.324,1.662 3.12,1.782 C2.712,2.022 2.712,3.258 2.712,3.684 C2.712,4.17 2.652,5.67 3.21,5.874 C3.504,5.982 3.894,5.982 4.206,5.982 C5.418,5.982 6.408,5.028 6.408,3.804 C6.408,2.556 5.442,1.644 4.206,1.644 Z M5.238,3.714 C5.238,4.518 5.028,5.082 4.116,5.082 C3.882,5.082 3.9,4.206 3.9,4.038 C3.9,3.666 3.918,3.288 3.918,2.916 C3.918,2.856 3.924,2.802 3.942,2.742 C3.978,2.622 4.026,2.544 4.164,2.544 C4.926,2.544 5.238,2.988 5.238,3.714 Z" id="形状" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

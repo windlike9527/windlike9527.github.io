@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <defs>
+        <polygon id="path-1" points="0 0 20 0 20 20 0 20"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人资料-支付密码-3" transform="translate(-161, -128)">
+            <g id="编组" transform="translate(161, 128)">
+                <circle id="椭圆形" fill="#01A25E" opacity="0.049999997" cx="34" cy="34" r="34"></circle>
+                <circle id="椭圆形" fill="#01A25E" opacity="0.5" cx="34" cy="34" r="28"></circle>
+                <g id="Icon/密码备份-3" transform="translate(24, 24)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="矩形"></g>
+                    <path d="M10,0 C13.3137085,0 16,2.6862915 16,6 L16.0001762,7.20708232 C18.3085909,7.86006936 20,9.9825098 20,12.5 L20,14.5 C20,17.5375661 17.5375661,20 14.5,20 L5.5,20 C2.46243388,20 0,17.5375661 0,14.5 L0,12.5 C0,9.98214303 1.69190202,7.85945095 4.00083278,7.20679702 L4,6 C4,2.6862915 6.6862915,0 10,0 Z M10,11 C9.44771525,11 9,11.4477153 9,12 L9,15 C9,15.5522847 9.44771525,16 10,16 C10.5522847,16 11,15.5522847 11,15 L11,12 C11,11.4477153 10.5522847,11 10,11 Z M10,2 C7.790861,2 6,3.790861 6,6 L6,7 L14,7 L14,6 C14,3.85780461 12.3160315,2.10892112 10.1996403,2.00489531 L10,2 Z" id="形状结合" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
