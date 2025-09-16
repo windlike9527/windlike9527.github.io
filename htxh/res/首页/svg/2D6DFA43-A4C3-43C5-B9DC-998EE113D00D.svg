@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="10" height="10"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-211, -387)">
+            <g id="编组" transform="translate(211, 387)">
+                <circle id="椭圆形备份" fill="#FFFFFF" cx="7" cy="7" r="7"></circle>
+                <g id="Icon/箭头右备份" transform="translate(2, 2)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="矩形"></g>
+                    <polygon id="路径" fill="#30149E" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(5.4268, 5) scale(-1, 1) translate(-5.4268, -5)" points="7 1.14644661 7.70710678 1.85355339 4.56105339 5 7.70710678 8.14644661 7 8.85355339 3.5 5.35355339 3.14644661 5 3.5 4.64644661"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
