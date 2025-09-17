@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/箭头右备份 2</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="12" height="12"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-354, -701)">
+            <g id="Icon/箭头右备份-2" transform="translate(354, 701)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="矩形"></g>
+                <polygon id="路径" fill="#A9AAAC" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(6.5121, 6) scale(-1, 1) translate(-6.5121, -6)" points="8.4 1.37573593 9.24852814 2.22426407 5.47326407 6 9.24852814 9.77573593 8.4 10.6242641 4.2 6.42426407 3.77573593 6 4.2 5.57573593"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
