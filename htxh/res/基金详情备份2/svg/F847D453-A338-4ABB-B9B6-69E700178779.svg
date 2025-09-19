@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="231px" viewBox="0 0 366 231" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组备份 7</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="基金详情备份-2" transform="translate(-12, -221)">
+            <g id="编组备份-7" transform="translate(12, 221)">
+                <path d="M0,223 L0,168 L4,165 L4,222 L9,227 L42,227 L39,231 L8,231 L0,223 Z" id="形状结合" fill="#4297FE"></path>
+                <path d="M0,34 L0,3 L4,0 L4,33 L9,38 L42,38 L39,42 L8,42 L0,34 Z" id="形状结合备份" fill="#4297FE" transform="translate(21, 21) rotate(90) translate(-21, -21)"></path>
+                <path d="M357.792893,0.5 L365.5,8.20710678 L365.5,222.792893 L357.792893,230.5 L155.207107,230.5 L152.207107,227.5 L109.792893,227.5 L106.792893,230.5 L8.20710678,230.5 L0.5,222.792893 L0.5,11.2071068 L8.20710678,3.5 L268.207107,3.5 L271.207107,0.5 L357.792893,0.5 Z" id="蒙版" stroke="#4297FE"></path>
+                <polygon id="矩形" fill="#4297FE" points="44 227 50 227 47 231 41 231"></polygon>
+                <polygon id="矩形备份" fill="#4297FE" points="52 227 56 227 53 231 49 231"></polygon>
+                <polygon id="矩形备份-2" fill="#4297FE" points="58 227 61 227 58 231 55 231"></polygon>
+                <polygon id="矩形-5" fill="#4297FE" points="110 229 152 229 154.046997 231 108.14663 231"></polygon>
+                <rect id="矩形-6" fill="#4297FE" x="286" y="0" width="33" height="4"></rect>
+                <polygon id="矩形-6备份" fill="#4297FE" points="84 0 117 0 120 4 81 4"></polygon>
+                <path d="M269,0 L267,2 L265,2 L267,0 L269,0 Z M265,0 L263,2 L261,2 L263,0 L265,0 Z M261,0 L259,2 L257,2 L259,0 L261,0 Z M257,0 L255,2 L253,2 L255,0 L257,0 Z M253,0 L251,2 L249,2 L251,0 L253,0 Z M249,0 L247,2 L245,2 L247,0 L249,0 Z M245,0 L243,2 L241,2 L243,0 L245,0 Z M241,0 L239,2 L237,2 L239,0 L241,0 Z" id="形状结合" fill="#4297FE"></path>
+                <path d="M49,0 L51,0 L51,2 L49,2 L49,0 Z M55,0 L57,0 L57,2 L55,2 L55,0 Z M61,0 L63,0 L63,2 L61,2 L61,0 Z M67,0 L69,0 L69,2 L67,2 L67,0 Z M73,0 L75,0 L75,2 L73,2 L73,0 Z" id="形状结合" fill="#4297FE"></path>
+                <rect id="矩形" fill="#4297FE" x="290" y="228" width="65" height="1"></rect>
+                <polygon id="矩形-5" fill="#4297FE" points="362 10 363 10 363 199 362 199"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
