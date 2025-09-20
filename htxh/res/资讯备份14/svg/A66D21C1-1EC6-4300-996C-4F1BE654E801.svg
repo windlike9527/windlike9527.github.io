@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/签到</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="资讯备份-14" transform="translate(-181, -158)" fill="#4297FE" fill-rule="nonzero">
+            <g id="Icon/签到" transform="translate(181, 158)">
+                <path d="M14,0 C21.5939153,0 27.7756755,6.04615461 27.9940312,13.5872143 L28,14 C28,21.7319865 21.7319865,28 14,28 C6.2680135,28 0,21.7319865 0,14 C0,6.2680135 6.2680135,0 14,0 Z M19.88,8.4 L11.956,16.324 L7.994,12.362 L6.02,14.336 L9.982,18.298 L11.97,20.272 L13.944,18.298 L21.854,10.374 L19.88,8.4 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>
