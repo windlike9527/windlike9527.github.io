@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="46px" viewBox="0 0 116 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组备份 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="发现备份-5" transform="translate(-262, -100)" fill="#A9AAAC">
+            <g id="编组备份-2" transform="translate(262, 100)">
+                <path d="M111.792893,0.5 L115.5,4.20710678 L115.5,39.7928932 L111.792893,43.5 L80.7828769,43.5 L78.9142818,45.5 L6.20710678,45.5 L2.5,41.7928932 L2.5,23.690983 L0.5,22.690983 L0.5,6.20710678 L4.20710678,2.5 L49.2071068,2.5 L51.2071068,0.5 L111.792893,0.5 Z" id="矩形-2" stroke="#A9AAAC" fill-opacity="0.1"></path>
+                <polygon id="矩形-6" points="73 1 106 1 106 3 73 3"></polygon>
+                <polygon id="矩形-3" points="0 9 3 8 3 19 0 18"></polygon>
+                <polygon id="矩形-3备份-2" points="113 15 116 14 116 26 113 29"></polygon>
+                <polygon id="矩形-3备份" transform="translate(1.5, 32.5) scale(-1, 1) translate(-1.5, -32.5)" points="0 28 3 27 3 38 0 37"></polygon>
+                <rect id="矩形-6备份-2" x="9" y="43" width="14" height="2"></rect>
+                <rect id="矩形-6备份-3" x="24" y="43" width="14" height="2"></rect>
+                <rect id="矩形-6备份-4" x="39" y="43" width="14" height="2"></rect>
+                <path d="M48,0 L46,2 L44,2 L46,0 L48,0 Z M44,0 L42,2 L40,2 L42,0 L44,0 Z M40,0 L38,2 L36,2 L38,0 L40,0 Z M36,0 L34,2 L32,2 L34,0 L36,0 Z M32,0 L30,2 L28,2 L30,0 L32,0 Z M28,0 L26,2 L24,2 L26,0 L28,0 Z M24,0 L22,2 L20,2 L22,0 L24,0 Z M20,0 L18,2 L16,2 L18,0 L20,0 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

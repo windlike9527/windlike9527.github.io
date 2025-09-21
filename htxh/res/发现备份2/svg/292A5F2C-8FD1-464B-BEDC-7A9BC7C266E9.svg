@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="145px" height="14px" viewBox="0 0 145 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组备份 2</title>
+    <defs>
+        <linearGradient x1="8.10931417%" y1="49.5061267%" x2="84.6194205%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#1114F7" offset="0%"></stop>
+            <stop stop-color="#1114F7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.10931417%" y1="49.5061267%" x2="84.6194205%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#4297FE" offset="0%"></stop>
+            <stop stop-color="#4297FE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="-7.21644966e-14%" x2="56.5945725%" y2="-7.21644966e-14%" id="linearGradient-3">
+            <stop stop-color="#1114F7" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1114F7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="-7.21644966e-14%" x2="56.5945725%" y2="-7.21644966e-14%" id="linearGradient-4">
+            <stop stop-color="#4297FE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4297FE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.246748992">
+        <g id="发现备份-2" transform="translate(-24, -296)">
+            <g id="编组备份-2" transform="translate(24, 296)">
+                <path d="M85,4 L77,14 L73,14 L81,4 L85,4 Z M93,4 L85,14 L81,14 L89,4 L93,4 Z M109,4 L101,14 L97,14 L105,4 L109,4 Z M101,4 L93,14 L89,14 L97,4 L101,4 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+                <polygon id="矩形-7" fill="url(#linearGradient-4)" points="6.96448108e-13 12 68 12 78 0 145 0 145 2 79 2 69 14 6.96448108e-13 14"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
