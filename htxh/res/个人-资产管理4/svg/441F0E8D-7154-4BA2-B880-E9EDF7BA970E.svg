@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="159px" height="14px" viewBox="0 0 159 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组备份</title>
+    <defs>
+        <linearGradient x1="8.10931417%" y1="49.5061267%" x2="84.6194205%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#1114F7" offset="0%"></stop>
+            <stop stop-color="#1114F7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.10931417%" y1="49.5061267%" x2="84.6194205%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#4297FE" offset="0%"></stop>
+            <stop stop-color="#4297FE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="-7.21644966e-14%" x2="56.5945725%" y2="-7.21644966e-14%" id="linearGradient-3">
+            <stop stop-color="#1114F7" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1114F7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="-7.21644966e-14%" x2="56.5945725%" y2="-7.21644966e-14%" id="linearGradient-4">
+            <stop stop-color="#4297FE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4297FE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.246748992">
+        <g id="个人-资产管理-4" transform="translate(-24, -180)">
+            <g id="编组备份" transform="translate(24, 180)">
+                <path d="M99,4 L91,14 L87,14 L95,4 L99,4 Z M107,4 L99,14 L95,14 L103,4 L107,4 Z M123,4 L115,14 L111,14 L119,4 L123,4 Z M115,4 L107,14 L103,14 L111,4 L115,4 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+                <polygon id="矩形-7" fill="url(#linearGradient-4)" points="6.96448108e-13 12 82 12 92 8.95283847e-13 159 2.98427949e-13 159 2 93 2 83 14 6.96448108e-13 14"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

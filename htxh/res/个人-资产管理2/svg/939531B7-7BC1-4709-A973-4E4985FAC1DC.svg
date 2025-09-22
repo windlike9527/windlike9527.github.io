@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/提醒</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人-资产管理-2" transform="translate(-24, -753)" fill="#FFBF3D" fill-rule="nonzero">
+            <g id="Icon/提醒" transform="translate(24, 753)">
+                <path d="M10,0 C15.4242252,0 19.8397682,4.31868186 19.9957365,9.70515306 L20,10 C20,15.5228475 15.5228475,20 10,20 C4.4771525,20 0,15.5228475 0,10 C0,4.4771525 4.4771525,0 10,0 Z M10,2 C5.581722,2 2,5.581722 2,10 C2,14.418278 5.581722,18 10,18 C14.418278,18 18,14.418278 18,10 L17.9965744,9.76303992 C17.8715765,5.44614964 14.330218,2 10,2 Z M10.9508707,13.0269948 L10.9508707,15 L9.03017998,15 L9.03017998,13.0269948 L10.9508707,13.0269948 Z M11,5 L11,12 L9,12 L9,5 L11,5 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

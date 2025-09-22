@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/排行</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-332, -8)">
+            <g id="Bar/tab/all-1备份-3" transform="translate(293, 0)">
+                <g id="Icon/排行" transform="translate(39, 8)">
+                    <polygon id="路径" fill="#4297FE" fill-rule="nonzero" points="16.089116 0 15.9963673 1.0851596 15.2271366 10.0851596 15.1489451 11 4.85105493 11 4.77286345 10.0851596 4.00363268 1.0851596 3.91088399 1.11022302e-16 5 0"></polygon>
+                    <polyline id="路径-2" stroke="#4297FE" stroke-width="2" points="7.11072801 19.0093953 1.71748406 19.0093953 5 12.9650027 15 12.9650027 18.3275439 19.0093953 13.0506406 19.0093953"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

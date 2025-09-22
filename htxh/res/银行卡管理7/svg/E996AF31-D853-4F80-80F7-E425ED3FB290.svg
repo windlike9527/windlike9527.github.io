@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/提醒</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="银行卡管理-7" transform="translate(-24, -190)" fill="#FFBF3D" fill-rule="nonzero">
+            <g id="Icon/提醒" transform="translate(24, 190)">
+                <path d="M6,0 C9.25453513,0 11.9038609,2.59120912 11.9974419,5.82309183 L12,6 C12,9.3137085 9.3137085,12 6,12 C2.6862915,12 0,9.3137085 0,6 C0,2.6862915 2.6862915,0 6,0 Z M6,1.2 C3.3490332,1.2 1.2,3.3490332 1.2,6 C1.2,8.6509668 3.3490332,10.8 6,10.8 C8.6509668,10.8 10.8,8.6509668 10.8,6 L10.7979447,5.85782395 C10.7229459,3.26768979 8.59813082,1.2 6,1.2 Z M6.5705224,7.8161969 L6.5705224,9 L5.41810799,9 L5.41810799,7.8161969 L6.5705224,7.8161969 Z M6.6,3 L6.6,7.2 L5.4,7.2 L5.4,3 L6.6,3 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

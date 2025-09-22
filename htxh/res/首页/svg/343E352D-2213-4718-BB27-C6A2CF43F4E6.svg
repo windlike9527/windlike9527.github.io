@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="288px" height="58px" viewBox="0 0 288 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 4备份</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FAFBFD" offset="0%"></stop>
+            <stop stop-color="#EAEFF4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8,0 L272,0 C276.418278,0 280,3.581722 280,8 L280,42 C280,46.418278 276.418278,50 272,50 L8,50 C3.581722,50 0,46.418278 0,42 L0,8 C0,3.581722 3.581722,8.8817842e-16 8,0 Z" id="path-2"></path>
+        <filter x="-2.5%" y="-10.0%" width="105.0%" height="128.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.00588157549   0 0 0 0 0.120319558   0 0 0 0 0.205502717  0 0 0 0.093558785 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-51, -260)">
+            <g id="编组" transform="translate(12, 165)">
+                <g transform="translate(0, 1)" id="编组备份">
+                    <g transform="translate(43, 96)" id="矩形-4备份">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <path stroke="#FFFFFF" stroke-width="0.5" d="M272,0.25 C274.140103,0.25 276.077603,1.1174483 277.480078,2.51992245 C278.882552,3.92239659 279.75,5.85989659 279.75,8 L279.75,42 C279.75,44.1401034 278.882552,46.0776034 277.480078,47.4800776 C276.077603,48.8825517 274.140103,49.75 272,49.75 L8,49.75 C5.85989659,49.75 3.92239659,48.8825517 2.51992245,47.4800776 C1.1174483,46.0776034 0.25,44.1401034 0.25,42 L0.25,8 C0.25,5.85989659 1.1174483,3.92239659 2.51992245,2.51992245 C3.92239659,1.1174483 5.85989659,0.25 8,0.25 Z" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

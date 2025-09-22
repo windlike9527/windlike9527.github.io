@@ -9,8 +9,8 @@
         <path d="M8,0 L358,0 L366,8 L366,230 L358,238 L8,238 L0,230 L0,8 L8,0 Z" id="path-2"></path>
     </defs>
     <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="首页" transform="translate(-12, -429)">
-            <g id="编组" transform="translate(12, 429)">
+        <g id="首页" transform="translate(-12, -633)">
+            <g id="编组" transform="translate(12, 633)">
                 <g id="位图" transform="translate(0, 4)">
                     <mask id="mask-3" fill="white">
                         <use xlink:href="#path-2"></use>
