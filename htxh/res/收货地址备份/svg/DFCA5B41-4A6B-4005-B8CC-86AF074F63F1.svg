@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="37px" viewBox="0 0 66 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组备份 12</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="收货地址备份" transform="translate(-115, -343)">
+            <g id="编组备份-12" transform="translate(116, 343)">
+                <path d="M6,3 L58,3 L62,7 L62,29 L58,33 L6,33 L2,29 L2,7 L6,3 Z" id="矩形-4" fill="#4297FE"></path>
+                <g id="编组备份-8">
+                    <path d="M5,1 L59,1 L64,6 L64,30 L59,35 L35,35 L35,35 L34,36 L25,36 L24,35 L5,35 L0,30 L0,6 L5,1 Z" id="矩形" stroke="#4297FE" stroke-width="0.5"></path>
+                    <polygon id="矩形-6" fill="#4297FE" points="25 34 27 34 28 35 26 35"></polygon>
+                    <polygon id="矩形-6备份" fill="#4297FE" points="28 34 30 34 31 35 29 35"></polygon>
+                    <polygon id="矩形-6备份-2" fill="#4297FE" points="31 34 33 34 34 35 32 35"></polygon>
+                    <polygon id="矩形-5" fill="#4297FE" points="11 0 17 0 16 2 10 2"></polygon>
+                    <polygon id="矩形-5备份" fill="#4297FE" points="18 0 24 0 23 2 17 2"></polygon>
+                    <polygon id="矩形-5备份-2" fill="#4297FE" points="25 0 31 0 30 2 24 2"></polygon>
+                    <polygon id="矩形-5备份-5" fill="#4297FE" transform="translate(40.5, 35) scale(1, -1) translate(-40.5, -35)" points="38 34 44 34 43 36 37 36"></polygon>
+                    <polygon id="矩形-5备份-4" fill="#4297FE" transform="translate(47.5, 35) scale(1, -1) translate(-47.5, -35)" points="45 34 51 34 50 36 44 36"></polygon>
+                    <polygon id="矩形-5备份-3" fill="#4297FE" transform="translate(54.5, 35) scale(1, -1) translate(-54.5, -35)" points="52 34 58 34 57 36 51 36"></polygon>
+                    <path d="M63.0270483,7.04555505 L63.0270483,29.2571508 L58.3855863,34 L58.3855863,34.8193568" id="路径" stroke="#4297FE" stroke-width="0.5" stroke-dasharray="2,2"></path>
+                    <path d="M5.53528813,1 L5.53528813,22.6949341 L1.20621607,27 L1,28" id="路径备份" stroke="#4297FE" stroke-width="0.5" stroke-dasharray="2,2" transform="translate(3.2676, 14.5) scale(-1, -1) translate(-3.2676, -14.5)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
