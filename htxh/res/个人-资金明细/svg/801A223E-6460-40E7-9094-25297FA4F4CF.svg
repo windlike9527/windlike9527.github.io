@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91px" height="46px" viewBox="0 0 91 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组备份 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人-资金明细" transform="translate(-210, -100)" fill="#A9AAAC">
+            <g id="编组备份-2" transform="translate(210, 100)">
+                <path d="M86.7928932,0.5 L90.5,4.20710678 L90.5,39.7928932 L86.7928932,43.5 L55.7828769,43.5 L53.9142818,45.5 L6.20710678,45.5 L2.5,41.7928932 L2.5,23.690983 L0.5,22.690983 L0.5,6.20710678 L4.20710678,2.5 L32.2071068,2.5 L34.2071068,0.5 L86.7928932,0.5 Z" id="矩形-2" stroke="#A9AAAC" fill-opacity="0.1"></path>
+                <polygon id="矩形-6" points="56 1 81 1 81 3 56 3"></polygon>
+                <polygon id="矩形-3" points="0 9 3 8 3 19 0 18"></polygon>
+                <polygon id="矩形-3备份-2" points="88 15 91 14 91 26 88 29"></polygon>
+                <polygon id="矩形-3备份" transform="translate(1.5, 32.5) scale(-1, 1) translate(-1.5, -32.5)" points="0 28 3 27 3 38 0 37"></polygon>
+                <polygon id="矩形-6备份-2" points="9 43 15 43 15 45 9 45"></polygon>
+                <polygon id="矩形-6备份-3" points="16 43 28 43 28 45 16 45"></polygon>
+                <polygon id="矩形-6备份-4" points="29 43 43 43 43 45 29 45"></polygon>
+                <path d="M31,0 L29,2 L27,2 L29,0 L31,0 Z M27,0 L25,2 L23,2 L25,0 L27,0 Z M23,0 L21,2 L19,2 L21,0 L23,0 Z M19,0 L17,2 L15,2 L17,0 L19,0 Z M15,0 L13,2 L11,2 L13,0 L15,0 Z M11,0 L9,2 L7,2 L9,0 L11,0 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

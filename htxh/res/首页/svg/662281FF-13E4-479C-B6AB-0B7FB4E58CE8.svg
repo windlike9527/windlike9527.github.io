@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/提醒备份</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="14" height="14"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-137, -325)">
+            <g id="Icon/提醒备份" transform="translate(137, 325)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="矩形"></g>
+                <polygon id="路径" fill="#FFBF3D" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(6.795, 3.8925) scale(-1, 1) rotate(90) translate(-6.795, -3.8925)" points="8.99748737 -1.50251263 9.98743687 -0.512563133 5.58296212 3.89246212 9.98743687 8.29748737 8.99748737 9.28743687 4.09748737 4.38743687 3.60251263 3.89246212 4.09748737 3.39748737"></polygon>
+                <polygon id="矩形-2" fill="#FFBF3D" fill-rule="evenodd" mask="url(#mask-2)" points="6.06590659 2.1 7.46590659 2.1 7.46590659 13.3 6.06590659 13.3"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
