@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="590px" height="590px" viewBox="0 0 590 590" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="590px" height="591px" viewBox="0 0 590 591" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>编组</title>
     <defs>
         <rect id="path-1" x="15" y="53.3145739" width="522" height="522" rx="261"></rect>
@@ -14,7 +14,7 @@
     </defs>
     <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="转盘" transform="translate(-49, -49)">
-            <g id="编组" transform="translate(49, 48.6854)">
+            <g id="编组" transform="translate(49, 49)">
                 <rect id="矩形" fill="#49AAF5" x="0" y="0.314573883" width="590" height="590" rx="295"></rect>
                 <rect id="矩形" fill="#2B88F7" x="2" y="2.31457388" width="586" height="586" rx="293"></rect>
                 <rect id="矩形" fill="#E6EFFC" x="10" y="10.3145739" width="570" height="570" rx="285"></rect>

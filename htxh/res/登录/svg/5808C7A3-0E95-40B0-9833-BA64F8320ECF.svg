@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="353px" viewBox="0 0 366 353" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <defs>
+        <linearGradient x1="50%" y1="0.909637238%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E4F0FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8,0 L348,0 L356,8 L356,335 L348,343 L8,343 L0,335 L0,8 L8,0 Z" id="path-2"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录" transform="translate(-12, -337)">
+            <g id="编组" transform="translate(12, 336)">
+                <g id="位图" transform="translate(5, 6)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <path stroke="#FFFFFF" stroke-width="0.5" d="M347.896447,0.25 L355.75,8.10355339 L355.75,334.896447 L347.896447,342.75 L8.10355339,342.75 L0.25,334.896447 L0.25,8.10355339 L8.10355339,0.25 L347.896447,0.25 Z"></path>
+                </g>
+                <g id="编组备份-10" transform="translate(0, 1)">
+                    <path d="M0,345 L0,259 L4,256 L4,344 L9,349 L42,349 L39,353 L8,353 L0,345 Z" id="形状结合" fill="#FFFFFF"></path>
+                    <path d="M0,34 L0,3 L4,0 L4,33 L9,38 L122,38 L119,42 L8,42 L0,34 Z" id="形状结合备份" fill="#FFFFFF" transform="translate(21, 21) rotate(90) translate(-21, -21)"></path>
+                    <path d="M357.792893,0.5 L365.5,8.20710678 L365.5,344.792893 L357.792893,352.5 L155.207107,352.5 L152.207107,349.5 L109.792893,349.5 L106.792893,352.5 L8.20710678,352.5 L0.5,344.792893 L0.5,11.2071068 L8.20710678,3.5 L268.207107,3.5 L271.207107,0.5 L357.792893,0.5 Z" id="蒙版" stroke="#FFFFFF"></path>
+                    <polygon id="矩形" fill="#FFFFFF" points="44 349 50 349 47 353 41 353"></polygon>
+                    <polygon id="矩形备份" fill="#FFFFFF" points="52 349 56 349 53 353 49 353"></polygon>
+                    <polygon id="矩形备份-2" fill="#FFFFFF" points="58 349 61 349 58 353 55 353"></polygon>
+                    <polygon id="矩形-5" fill="#FFFFFF" points="110 351 152 351 154.046997 353 108.14663 353"></polygon>
+                    <rect id="矩形-6" fill="#FFFFFF" x="286" y="0" width="33" height="4"></rect>
+                    <polygon id="矩形-6备份" fill="#FFFFFF" points="84 0 117 0 120 4 81 4"></polygon>
+                    <path d="M269,0 L267,2 L265,2 L267,0 L269,0 Z M265,0 L263,2 L261,2 L263,0 L265,0 Z M261,0 L259,2 L257,2 L259,0 L261,0 Z M257,0 L255,2 L253,2 L255,0 L257,0 Z M253,0 L251,2 L249,2 L251,0 L253,0 Z M249,0 L247,2 L245,2 L247,0 L249,0 Z M245,0 L243,2 L241,2 L243,0 L245,0 Z M241,0 L239,2 L237,2 L239,0 L241,0 Z" id="形状结合" fill="#FFFFFF"></path>
+                    <path d="M49,0 L51,0 L51,2 L49,2 Z M55,0 L57,0 L57,2 L55,2 Z M61,0 L63,0 L63,2 L61,2 Z M67,0 L69,0 L69,2 L67,2 Z M73,0 L75,0 L75,2 L73,2 Z" id="形状结合" fill="#FFFFFF"></path>
+                    <rect id="矩形" fill="#FFFFFF" x="290" y="350" width="65" height="1"></rect>
+                    <rect id="矩形-5" fill="#FFFFFF" x="362" y="10" width="1" height="148"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
