@@ -3,7 +3,7 @@
     <title>金融资讯速递</title>
     <defs>
         <text id="text-1" font-family="YEFONTGJH" font-size="26" font-weight="normal" fill="#FFFFFF">
-            <tspan x="15" y="117">金融资讯速递</tspan>
+            <tspan x="15" y="94">金融资讯速递</tspan>
         </text>
         <filter x="-4.5%" y="-16.1%" width="109.0%" height="145.2%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -12,7 +12,7 @@
         </filter>
     </defs>
     <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1">
-        <g id="金融资讯速递" transform="translate(-11, -89)" fill="#FFFFFF">
+        <g id="金融资讯速递" transform="translate(-11, -66)" fill="#FFFFFF">
             <use filter="url(#filter-2)" xlink:href="#text-1"></use>
             <use xlink:href="#text-1"></use>
         </g>

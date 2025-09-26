@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="390px" height="391px" viewBox="0 0 390 391" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 9 + 椭圆形蒙版@2x</title>
+    <defs>
+        <rect id="path-1" x="131" y="148" width="390" height="391"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#4297FE" offset="0%"></stop>
+            <stop stop-color="#4297FE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="矩形-9-+-椭圆形蒙版" transform="translate(-131, -148)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1" transform="translate(326, 343.5) scale(1, -1) translate(-326, -343.5)"></use>
+            </mask>
+            <use id="蒙版" fill="#FFFFFF" transform="translate(326, 343.5) scale(1, -1) translate(-326, -343.5)" xlink:href="#path-1"></use>
+            <rect id="矩形-9" fill="url(#linearGradient-3)" opacity="0.300000012" mask="url(#mask-2)" x="131" y="313" width="390" height="210"></rect>
+            <ellipse id="椭圆形" fill="#4297FE" mask="url(#mask-2)" cx="326" cy="192.5" rx="326" ry="192.5"></ellipse>
+        </g>
+    </g>
+</svg>
