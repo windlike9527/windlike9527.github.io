@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="165px" height="165px" viewBox="0 0 165 165" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="165" height="165"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#BCC7D6" offset="0%"></stop>
+            <stop stop-color="#DBEEFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#E6EFFC" offset="0%"></stop>
+            <stop stop-color="#DBEEFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="转盘" transform="translate(-262, -245)">
+            <g id="编组" transform="translate(262, 245)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="蒙版"></g>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(16, 0)">
+                        <circle id="椭圆形-2" stroke="none" fill="#044CA2" fill-rule="evenodd" cx="66" cy="99" r="66"></circle>
+                        <polygon id="矩形-3" stroke="none" fill="url(#linearGradient-3)" fill-rule="evenodd" points="66 0 92 50 66 50"></polygon>
+                        <polygon id="矩形-3备份" stroke="none" fill="url(#linearGradient-4)" fill-rule="evenodd" transform="translate(53, 25) scale(-1, 1) translate(-53, -25)" points="40 0 66 50 40 50"></polygon>
+                        <circle id="椭圆形-2" stroke="none" fill="#E6EFFC" fill-rule="evenodd" cx="66" cy="99" r="63"></circle>
+                        <circle id="椭圆形-2" stroke="none" fill="#55ACF9" fill-rule="evenodd" cx="66" cy="99" r="55"></circle>
+                        <path d="M66,158 C98.5848002,158 125,131.5848 125,99 C125,66.4151998 98.5848002,40 66,40 C33.4151998,40 7,66.4151998 7,99 C7,131.5848 33.4151998,158 66,158 Z" id="椭圆形-2" stroke="#55ACF9" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,4"></path>
+                        <text id="抽奖" stroke="#044CA2" stroke-width="1" fill="none" font-family="DOUYINSANSBOLD-GB, Douyin Sans" font-size="36" font-weight="bold" line-spacing="36">
+                            <tspan x="30" y="114" fill="#FBFEFF">抽奖</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
