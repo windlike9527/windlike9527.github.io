@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="151px" height="32px" viewBox="0 0 151 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 9</title>
+    <defs>
+        <linearGradient x1="23.4483392%" y1="49.7654861%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFF4E7" offset="0%"></stop>
+            <stop stop-color="#EABF87" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人-我的持有" transform="translate(-12, -225)" fill="url(#linearGradient-1)">
+            <path d="M12,225 L155,225 C159.418278,225 163,228.581722 163,233 L163,257 L163,257 L68,257 C59.163444,257 52,249.836556 52,241 C52,232.163444 44.836556,225 36,225 L12,225 L12,225 Z" id="矩形-9" transform="translate(87.5, 241) scale(-1, 1) translate(-87.5, -241)"></path>
+        </g>
+    </g>
+</svg>

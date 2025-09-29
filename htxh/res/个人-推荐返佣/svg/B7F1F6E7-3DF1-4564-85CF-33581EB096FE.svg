@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="390px" height="228px" viewBox="0 0 390 228" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人-推荐返佣" transform="translate(0, -198)" fill="#FFFFFF" stroke="url(#linearGradient-1)">
+            <path d="M374,198.5 C378.280207,198.5 382.155207,200.234897 384.960155,203.039845 C387.765103,205.844793 389.5,209.719793 389.5,214 L389.5,425.5 L0.5,425.5 L0.5,214 C0.5,209.719793 2.23489659,205.844793 5.03984489,203.039845 C7.84479319,200.234897 11.7197932,198.5 16,198.5 Z" id="矩形"></path>
+        </g>
+    </g>
+</svg>

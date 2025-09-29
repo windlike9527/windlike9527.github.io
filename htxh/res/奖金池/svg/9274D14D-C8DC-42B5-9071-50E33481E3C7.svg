@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="191px" height="32px" viewBox="0 0 191 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 9</title>
+    <defs>
+        <linearGradient x1="23.9732099%" y1="49.8544314%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FC9E3A" offset="0%"></stop>
+            <stop stop-color="#FCBF6E" offset="100%"></stop>
+        </linearGradient>
+        <path d="M102,225 L293,225 L278,225 C269.715729,225 263,231.715729 263,240 L263,241 C263,249.836556 255.836556,257 247,257 L158,257 C149.163444,257 142,249.836556 142,241 C142,232.163444 134.836556,225 126,225 L102,225 L102,225 Z" id="path-2"></path>
+        <filter x="-0.8%" y="-4.7%" width="101.6%" height="109.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.474595717 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner2"></feGaussianBlur>
+            <feOffset dx="0" dy="-1" in="shadowBlurInner2" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.776437953   0 0 0 0 0.516663955   0 0 0 0 0.230016785  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="奖金池" transform="translate(-102, -225)">
+            <g id="矩形-9" transform="translate(197.5, 241) scale(-1, 1) translate(-197.5, -241)">
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

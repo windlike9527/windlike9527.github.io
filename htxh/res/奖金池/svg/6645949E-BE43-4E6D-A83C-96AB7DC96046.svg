@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/箭头上备份</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="14" height="14"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="奖金池" transform="translate(-111, -382)">
+            <g id="Icon/箭头上备份" transform="translate(111, 382)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="矩形"></g>
+                <path d="M8.66192881,-0.740150602 C8.92227834,-0.998741011 9.34438833,-0.998741011 9.60473785,-0.740150602 C9.86508738,-0.481560192 9.86508738,-0.062302301 9.60473785,0.196288108 L5.80906667,3.96590659 L9.60473785,7.73552507 C9.84773075,7.97687612 9.86393027,8.3581864 9.65333643,8.61819868 L9.60473785,8.67196378 C9.34438833,8.93055419 8.92227834,8.93055419 8.66192881,8.67196378 L4.39526215,4.43412595 C4.13491262,4.17553554 4.13491262,3.75627765 4.39526215,3.49768724 L8.66192881,-0.740150602 Z" id="路径备份" fill="#3DB90E" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(7, 4.2) scale(-1, 1) rotate(90) translate(-7, -4.2)"></path>
+                <path d="M6.06590659,2.1 L7.46590659,2.1 L7.46590659,12.6 C7.46590659,12.9865993 7.15250592,13.3 6.76590659,13.3 C6.37930727,13.3 6.06590659,12.9865993 6.06590659,12.6 L6.06590659,2.1 L6.06590659,2.1 Z" id="矩形-2" fill="#3DB90E" fill-rule="evenodd" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

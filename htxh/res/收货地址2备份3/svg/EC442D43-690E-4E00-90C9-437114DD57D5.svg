@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="358px" height="74px" viewBox="0 0 358 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="收货地址-2备份-3" transform="translate(-16, -365)" fill="#FFFFFF">
+            <g id="编组" transform="translate(16, 365)">
+                <path d="M350,0 C354.418278,0 358,3.581722 358,8 L358,31 C354.686292,31 352,33.6862915 352,37 C352,40.3137085 354.686292,43 358,43 L358,66 C358,70.418278 354.418278,74 350,74 L8,74 C3.581722,74 0,70.418278 0,66 L0,43 C3.3137085,43 6,40.3137085 6,37 C6,33.6862915 3.3137085,31 0,31 L0,8 C0,3.581722 3.581722,8.8817842e-16 8,0 L350,0 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>
