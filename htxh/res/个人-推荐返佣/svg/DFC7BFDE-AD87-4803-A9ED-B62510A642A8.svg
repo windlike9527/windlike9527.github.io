@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="203px" height="44px" viewBox="0 0 203 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 2</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#4297FE" stop-opacity="0.201950393" offset="100%"></stop>
+        </linearGradient>
+        <path d="M100,210 L295,210 L283,210 C273.058875,210 265,218.058875 265,228 C265,237.941125 256.941125,246 247,246 L148,246 C138.058875,246 130,237.941125 130,228 C130,218.058875 121.941125,210 112,210 L100,210 L100,210 Z" id="path-2"></path>
+        <filter x="-3.6%" y="-13.9%" width="107.2%" height="138.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.147781906 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="矩形-2" transform="translate(-96, -208)">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <path stroke="#FFFFFF" stroke-width="1" d="M276.984488,210.5 C274.295354,211.424175 271.886319,212.95073 269.918525,214.918525 C266.570683,218.266366 264.5,222.891366 264.5,228 C264.5,232.832492 262.541246,237.207492 259.374369,240.374369 C256.207492,243.541246 251.832492,245.5 247,245.5 L148,245.5 C143.167508,245.5 138.792508,243.541246 135.625631,240.374369 C132.458754,237.207492 130.5,232.832492 130.5,228 C130.5,222.891366 128.429317,218.266366 125.081475,214.918525 C123.113681,212.95073 120.704646,211.424175 118.015512,210.5 Z" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd"></path>
+        </g>
+    </g>
+</svg>

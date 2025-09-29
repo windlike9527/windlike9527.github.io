@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="113px" viewBox="0 0 366 113" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 4 + 矩形 4备份蒙版备份</title>
+    <defs>
+        <linearGradient x1="1.71154198%" y1="45.6034476%" x2="97.9764698%" y2="54.1086464%" id="linearGradient-1">
+            <stop stop-color="#F0772C" offset="0%"></stop>
+            <stop stop-color="#E5571D" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="15" y="0" width="366" height="113" rx="8"></rect>
+        <linearGradient x1="52.8017367%" y1="25.2092014%" x2="100%" y2="74.7907986%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人-资产管理" transform="translate(-12, -296)">
+            <g id="矩形-4-+-矩形-4备份蒙版备份" transform="translate(-3, 296)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <polygon id="矩形-4" fill="url(#linearGradient-4)" opacity="0.0615675418" mask="url(#mask-3)" points="0 0 89 0 169 119 80 119"></polygon>
+                <polygon id="矩形-4备份" fill="url(#linearGradient-4)" opacity="0.0615675418" mask="url(#mask-3)" points="49 0 138 0 218 119 129 119"></polygon>
+                <polygon id="矩形-4备份-2" fill="url(#linearGradient-4)" opacity="0.100000001" mask="url(#mask-3)" points="293 -3 382 -3 462 116 373 116"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
