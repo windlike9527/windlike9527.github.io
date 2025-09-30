@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="141px" height="32px" viewBox="0 0 141 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 9</title>
+    <defs>
+        <linearGradient x1="23.4483392%" y1="49.7310421%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#DCCCFF" offset="0%"></stop>
+            <stop stop-color="#DDD2FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人-资产管理" transform="translate(-237, -484)" fill="url(#linearGradient-1)">
+            <path d="M237,484 L370,484 C374.418278,484 378,487.581722 378,492 L378,516 L378,516 L293,516 C284.163444,516 277,508.836556 277,500 C277,491.163444 269.836556,484 261,484 L237,484 L237,484 Z" id="矩形-9"></path>
+        </g>
+    </g>
+</svg>

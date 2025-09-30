@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/箭头右备份 3</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="14" height="14"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人-资产管理" transform="translate(-352, -493)">
+            <g id="Icon/箭头右备份-3" transform="translate(352, 493)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="矩形"></g>
+                <path d="M8.66192881,2.29394281 C8.92227834,2.0353524 9.34438833,2.0353524 9.60473785,2.29394281 C9.86508738,2.55253322 9.86508738,2.97179111 9.60473785,3.23038152 L5.80906667,7 L9.60473785,10.7696185 C9.84773075,11.0109695 9.86393027,11.3922798 9.65333643,11.6522921 L9.60473785,11.7060572 C9.34438833,11.9646476 8.92227834,11.9646476 8.66192881,11.7060572 L4.39526215,7.46821936 C4.13491262,7.20962895 4.13491262,6.79037105 4.39526215,6.53178064 L8.66192881,2.29394281 Z" id="路径备份" fill="#5625E7" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(7, 7) scale(-1, 1) translate(-7, -7)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

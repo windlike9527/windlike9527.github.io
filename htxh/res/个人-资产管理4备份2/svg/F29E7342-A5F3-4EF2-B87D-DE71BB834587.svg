@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="155px" viewBox="0 0 366 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形 4 + 矩形 4备份蒙版备份 2</title>
+    <defs>
+        <linearGradient x1="1.71154198%" y1="41.7278431%" x2="97.9764698%" y2="57.7304589%" id="linearGradient-1">
+            <stop stop-color="#952CF0" offset="0%"></stop>
+            <stop stop-color="#4E1DE5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="15" y="0" width="366" height="155" rx="8"></rect>
+        <linearGradient x1="52.8017367%" y1="7.94089843%" x2="100%" y2="92.0591016%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="52.8017367%" y1="6.29704842%" x2="100%" y2="93.7029516%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人-资产管理-4备份-2" transform="translate(-12, -108)">
+            <g id="矩形-4-+-矩形-4备份蒙版备份-2" transform="translate(-3, 108)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <polygon id="矩形-4" fill="url(#linearGradient-4)" opacity="0.0615675418" mask="url(#mask-3)" points="0 0.860655738 89 0.860655738 169 155.860656 80 155.860656"></polygon>
+                <polygon id="矩形-4备份" fill="url(#linearGradient-4)" opacity="0.0615675418" mask="url(#mask-3)" points="49 0.860655738 138 0.860655738 218 155.860656 129 155.860656"></polygon>
+                <polygon id="矩形-4备份-2" fill="url(#linearGradient-5)" opacity="0.100000001" mask="url(#mask-3)" points="293 -3 382 -3 462 155 373 155"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
